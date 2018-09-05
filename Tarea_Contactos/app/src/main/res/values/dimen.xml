@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TamContacto">30sp</dimen>
+    <dimen name="TamTelefono">20sp</dimen>
+    <dimen name="TamEmail">20sp</dimen>
+    <dimen name="TamDescripcion">20sp</dimen>
+</resources>

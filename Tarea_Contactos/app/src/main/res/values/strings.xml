@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarea Mis Contactos</string>
+    <string name="tit_fechanac">FECHA DE NACIMIENTO</string>
+    <string name="titulo">SIGUIENTE</string>
+    <string name="txtnombre">Nombre Completo</string>
+    <string name="txtTelfono">Télefono</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtDscpContacto">Descripción</string>
+    <string name="tvConfirmación">Confirmar Datos</string>
+    <string name="tvfechanac">Fecha de Nacimiento:</string>
+    <string name="tvTele">Telefono:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvDescrip">Descripción:</string>
+    <string name="btnTitulo">Editar Datos</string>
+    <string name="pNombre">Nombre</string>
+    <string name="pFechaNac">FechaNac</string>
+    <string name="pTelefono">Telefono</string>
+    <string name="pEmail">Email</string>
+    <string name="pDescrip">Descripcion</string>
+    <string name="Mensaje">Llenar todos los datos</string>
+</resources>
